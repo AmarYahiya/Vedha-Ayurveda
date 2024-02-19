@@ -1,0 +1,35 @@
+.vedha{
+    background-color: #f8efe2c4;
+    height: 116px;
+    width: 100%;
+}
+.pr-5, .px-5 {
+    padding-right: 5rem!important;
+}
+.icon-list{
+    color: black;
+}
+.dropdown{
+    background-color:#f8efe2c4;
+    margin-block-end: auto;
+}
+.dropdown-menu{
+    background-color: rgb(234 221 206);
+}
+.topleft{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.list-group-item{
+    
+    border-top : 2px; border-color: blanchedalmond;
+    border-left: 10px;
+    border-color: blanchedalmond;;
+}
+.local{
+    image size: ;
+}
+.table{
+    background-color:#f8f9fa ;
+}
